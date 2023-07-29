@@ -7,4 +7,4 @@ Pull requests are welcome. You can read more about how to contribute [here](http
 ## Scripts
 * [Take screenshot](https://github.com/tanuj101/awesome-dmenu/tree/master/screenshot) - Take screenshot of your screen with various options
 * [Screen recorder](https://github.com/tanuj101/awesome-dmenu/tree/master/recorder) - Script to record your screen
-
+* [NetworkManager dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
